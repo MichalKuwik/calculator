@@ -1,2 +1,9 @@
-# calculator
-Calculator App using java script
+#  app calculator
+
+Calculator App used following technology:
+
+-html,
+
+-css,
+
+-pure JavaScript
